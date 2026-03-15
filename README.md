@@ -1,11 +1,18 @@
 # Insurance Charge Prediction Model
 
-## Mission
-This project predicts individual medical insurance charges based on 
-personal health and lifestyle attributes such as age, BMI, smoking 
-status, and region. Accurate cost prediction supports healthcare 
-providers and insurers in risk assessment and financial planning, 
-contributing to a more equitable and data-driven public health system.
+## Mission and Problem
+In Rwanda and across Africa, health insurance schemes such as Mutuelle 
+de Santé struggle to set fair and sustainable premiums because they lack 
+data-driven tools to estimate individual medical costs based on personal 
+and lifestyle attributes. The problem is that without an accurate 
+prediction model, low-risk members are overcharged while high-risk 
+members are undercharged leading to financial instability in the health 
+insurance system and reduced trust from citizens. This project builds a 
+machine learning regression model that predicts individual medical 
+insurance charges using features such as age, BMI, smoking status and 
+region, providing a data-driven solution that can help Rwandan and 
+African health insurers set fairer premiums and improve the financial 
+sustainability of public health coverage.
 
 ## Dataset
 - **Name:** Medical Cost Personal Dataset
