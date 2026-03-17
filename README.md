@@ -61,7 +61,7 @@ as best_model.pkl and the scaler was saved as scaler.pkl.
 2. Open summative/linear_regression/multivariate.ipynb
 3. Run all cells in order
 4. The best model will be saved automatically as best_model.pkl
-5. And you  run on the google  colab using this link : https://colab.research.google.com/drive/1LdT_ju-Qd2Ma_pEJOEGLED40QR_BqoXR#scrollTo=4a-lePqeAVMD
+5. And you  run on the google  colab using this link : https://colab.research.google.com/drive/1wJCyl92qqbhmp-V_-WwG-yJMBt07j6rp#scrollTo=RJQP7mha-jVe
 
 ## Requirements
 - Python 3.x
