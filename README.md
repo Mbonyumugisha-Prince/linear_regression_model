@@ -44,12 +44,11 @@ Insuarence_price_prediction_model_assignment/
 - Random Forest Regressor ← Best Model
 
 ## Model Performance
-
-| Model             | Test MSE      | Test MAE  | Test R2 |
-|-------------------|---------------|-----------|---------|
-| Linear Regression | 35,478,020.68 | $4,177.05 | 0.8069  |
-| Decision Tree     | 19,461,664.32 | $2,656.84 | 0.8941  |
-| Random Forest     | 18,729,563.18 | $2,447.29 | 0.8981  |
+| Model             | Test RMSE  | Test MAE  | Test R2 |
+|-------------------|------------|-----------|---------|
+| Linear Regression | 5,956.34   | $4,177.05 | 0.8069  |
+| Decision Tree     | 4,411.54   | $2,656.84 | 0.8941  |
+| Random Forest     | 4,327.77   | $2,447.29 | 0.8981  |
 
 ## Best Model
 Random Forest Regressor with Test R2 of 0.8981 which means the model 
