@@ -15,7 +15,7 @@ In Rwanda and across Africa, health insurance schemes such as Mutuelle de Santé
 - **Retrain endpoint:** `POST /retrain`
 
 ## Video Demo
-- **Demo Video:** [https://drive.google.com/file/d/1O_hGILtujBHmQHZqD8-2fcJbFCSDY2FQ/view?usp=sharing](https://drive.google.com/file/d/1O_hGILtujBHmQHZqD8-2fcJbFCSDY2FQ/view?usp=sharing)
+- **YouTube:** [https://www.youtube.com/watch?v=69M8vgIPQOg](https://www.youtube.com/watch?v=69M8vgIPQOg)
 
 ## How to Run the Mobile App
 
