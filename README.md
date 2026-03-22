@@ -37,14 +37,13 @@ uvicorn prediction:app --host 0.0.0.0 --port 8000
 ```
 
 ### Step 3 — Configure the API URL in the Flutter app
-Open `summative/FlutterApp/insurance_predictor/lib/services/api_service.dart` and set the correct URL:
+The app is already configured to use the deployed API. The `baseUrl` in `summative/FlutterApp/insurance_predictor/lib/services/api_service.dart` is set to:
 
-| Device | URL |
-|--------|-----|
-| iOS Simulator | `http://127.0.0.1:8000` |
-| Android Emulator | `http://10.0.2.2:8000` |
-| Physical device | `http://YOUR_MACHINE_LOCAL_IP:8000` |
-| After Render deployment | `https://insurance-predictor-3ai0.onrender.com` |
+```
+https://insurance-predictor-3ai0.onrender.com
+```
+
+No changes needed — just run the app and it will connect to the live API.
 
 ### Step 4 — Run the Flutter app
 ```bash
