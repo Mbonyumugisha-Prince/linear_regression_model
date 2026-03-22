@@ -9,8 +9,8 @@ In Rwanda and across Africa, health insurance schemes such as Mutuelle de Santé
 - **Description:** 1,338 records of individuals with 7 columns: age, sex, bmi, children, smoker, region and charges. The target variable `charges` represents the individual medical insurance cost billed by the insurer. The dataset is rich in both volume and variety, covering a wide range of personal and lifestyle attributes ideal for regression analysis.
 
 ## Public API
-- **Base URL:** `https://your-app.onrender.com` ← replace with your Render URL after deployment
-- **Swagger UI (tests will be assessed here):** `https://your-app.onrender.com/docs`
+- **Base URL:** `https://insurance-predictor-3ai0.onrender.com`
+- **Swagger UI (tests will be assessed here):** `https://insurance-predictor-3ai0.onrender.com/docs`
 - **Predict endpoint:** `POST /predict`
 - **Retrain endpoint:** `POST /retrain`
 
@@ -44,7 +44,7 @@ Open `summative/FlutterApp/insurance_predictor/lib/services/api_service.dart` an
 | iOS Simulator | `http://127.0.0.1:8000` |
 | Android Emulator | `http://10.0.2.2:8000` |
 | Physical device | `http://YOUR_MACHINE_LOCAL_IP:8000` |
-| After Render deployment | `https://your-app.onrender.com` |
+| After Render deployment | `https://insurance-predictor-3ai0.onrender.com` |
 
 ### Step 4 — Run the Flutter app
 ```bash

@@ -39,7 +39,7 @@ app.add_middleware(
         "http://localhost",
         "http://localhost:8000",
         "http://127.0.0.1:8000",
-        "https://insurance-predictor.onrender.com",  # update with your Render URL
+        "https://insurance-predictor-3ai0.onrender.com",
     ],
     allow_credentials = True,
     allow_methods     = ["GET", "POST"],
